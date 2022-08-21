@@ -3,7 +3,7 @@ using AzureServiceBus.Contracts;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 
-namespace AzureServiceBusPublisher.Contracts
+namespace AzureServiceBusPublisher.Publisher
 {
     public class MessagePublisher : IMessagePublisher
     {

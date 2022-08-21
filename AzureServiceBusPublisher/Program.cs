@@ -1,6 +1,6 @@
 using AzureServiceBus.Contracts;
 using AzureServiceBusPublisher;
-using AzureServiceBusPublisher.Contracts;
+using AzureServiceBusPublisher.Publisher;
 
 var builder = WebApplication.CreateBuilder(args);
 
